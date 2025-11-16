@@ -1,0 +1,11 @@
+{
+  "name": "saucedemo-playwright-test",
+  "version": "1.0.0",
+  "description": "Playwright test for Saucedemo login, add product, verify cart, and logout",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.45.0"
+  }
+}
